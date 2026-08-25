@@ -1,4 +1,4 @@
-## Ing. Damián Nicolás Sánchez Novelo
+## Damián Nicolás Sánchez Novelo
 ### Data Engineering • Mérida, Yucatán
 
 Estudiante de Ingeniería de Datos en la Universidad Politécnica de Yucatán (UPY). Me apasiona el procesamiento de información, la automatización de flujos de trabajo y el análisis de datos complejos. Disfruto construyendo desde arquitecturas de bases de datos hasta la implementación de modelos de análisis.
