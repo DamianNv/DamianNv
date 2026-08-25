@@ -1,4 +1,5 @@
-## Damián Nicolás Sánchez Novelo
+# Hola, soy Damián Nicolás Sánchez Novelo 👋
+
 ### Data Engineering • Mérida, Yucatán
 
 Estudiante de Ingeniería de Datos en la Universidad Politécnica de Yucatán (UPY). Me apasiona el procesamiento de información, la automatización de flujos de trabajo y el análisis de datos complejos. Disfruto construyendo desde arquitecturas de bases de datos hasta la implementación de modelos de análisis.
@@ -11,23 +12,8 @@ Estudiante de Ingeniería de Datos en la Universidad Politécnica de Yucatán (U
 
 ## 🛠️ Stack Tecnológico
 
-**Lenguajes y Frameworks:**
-* Python
-* Django
+[![Mis Habilidades](https://skillicons.dev/icons?i=py,django,supabase,sqlite,mongo,linux,docker,vercel,git)](https://skillicons.dev)
 
-**Bases de Datos y Almacenamiento:**
-* Supabase
-* SQLite
-* MongoDB
+*Otras herramientas y tecnologías con las que trabajo:* **Power BI**, **Apache Airflow**, **Google Colab** y **LaTeX**.
 
-**Infraestructura, DevOps y Despliegue:**
-* Linux
-* Docker
-* Vercel
-* Git
-* Apache Airflow
-
-**Análisis de Datos y Visualización:**
-* Power BI
-* Google Colab
-* LaTeX 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=DamianNv&theme=tokyonight&border_radius=6)
