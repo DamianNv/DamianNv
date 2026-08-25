@@ -4,7 +4,7 @@
 
 Estudiante de Ingeniería de Datos en la Universidad Politécnica de Yucatán (UPY). Me apasiona el procesamiento de información, la automatización de flujos de trabajo y el análisis de datos complejos. Disfruto construyendo desde arquitecturas de bases de datos hasta la implementación de modelos de análisis.
 
-## 🚀 Sobre mí
+## Sobre mí
 
 * 🎓 Enfoque académico y práctico en modelos de *Machine Learning*, teoría de grafos y análisis de redes complejas.
 * ⚙️ Experiencia estructurando flujos de trabajo de datos y análisis de métricas.
