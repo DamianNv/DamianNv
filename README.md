@@ -1,4 +1,4 @@
-# Hola, soy Damián Nicolás Sánchez Novelo 👋
+# Hola, soy Damián Novelo 👋
 
 ### Data Engineering • Mérida, Yucatán
 
