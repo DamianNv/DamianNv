@@ -6,11 +6,11 @@ Estudiante de Ingeniería de Datos en la Universidad Politécnica de Yucatán (U
 
 ## Sobre mí
 
-* 🎓 Enfoque académico y práctico en modelos de *Machine Learning*, teoría de grafos y análisis de redes complejas.
-* ⚙️ Experiencia estructurando flujos de trabajo de datos y análisis de métricas.
-* 💡 Interesado en el ecosistema de Internet de las Cosas (IoT) y la visualización eficiente de datos.
+*  Enfoque académico y práctico en modelos de *Machine Learning*, teoría de grafos y análisis de redes complejas.
+* Experiencia estructurando flujos de trabajo de datos y análisis de métricas.
+* Interesado en el ecosistema de Internet de las Cosas (IoT) y la visualización eficiente de datos.
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=py,django,supabase,sqlite,mongo,linux,docker,vercel,git)](https://skillicons.dev)
 
